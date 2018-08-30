@@ -153,6 +153,7 @@ section {
           padding: 10px 20px; }
         #photo .photo-box a .photo-box-inner .button-detail {
           margin: auto;
+          margin-bottom: 50px;
           text-align: center;
           padding: 5px 0;
           width: 180px;
